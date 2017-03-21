@@ -1,5 +1,5 @@
 # Versa-Filter
-## A programmable Digital Filter with analog I/O. Open hardware and software.
+## A programmable Digital Filter with analog I/O. Hardware and software.
 
 The Versa-Filter is a versatile signal conditioning and digital filter system with analog inputs and outputs. The basic unit has two independent DC to 20 kHz channels, programmable gain amplifiers, a liquid crystal display and RS-232 serial control interfaces. A stereo 16-bit sigma-delta CODEC performs the A/D and D/A conversion and a fixed point digital signal processor (DSP) performs low-pass, high-pass, band-pass, band-stop and notch filtering with a 1Hz tuning resolution.
 
@@ -12,7 +12,7 @@ I developed this as a commercial product and sold it from 1997 through 2007.
 ![img](https://github.com/mspenceree/Versa-Filter/blob/master/images/32ch%20System%20%26%20Modules.jpg)
 
 ### Rotary-encoder with push-button used to set filter functions, frequencies and gains:
-![img](https://github.com/mspenceree/Versa-Filter/blob/master/images/VFVUMovie.gif)
+![img](https://github.com/mspenceree/Versa-Filter/blob/master/images/VFMovie.gif)
 
 ### VU-Level meter for inputs and outputs:
 ![img](https://github.com/mspenceree/Versa-Filter/blob/master/images/VUMovie.gif)

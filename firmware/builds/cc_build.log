@@ -1,0 +1,79 @@
+dspcl -g -v2xx -as -frC:\WORK\SPS\FILTER\FILTSOFT -ic:\c2xxti FILT.C
+[FILT.C]
+TMS320C2x/C2xx/C5x ANSI C Compiler          Version 7.00
+Copyright (c) 1987-1999  Texas Instruments Incorporated 
+   "FILT.C"   ==> main
+   "FILT.C"   ==> initialize
+   "FILT.C"   ==> init_params
+   "FILT.C"   ==> init_freq_params
+   "FILT.C"   ==> set_fsample
+   "FILT.C"   ==> reset_port
+   "FILT.C"   ==> sign_on
+   "FILT.C"   ==> parse_command
+   "FILT.C"   ==> txrxint_c
+   "FILT.C"   ==> reset_lcd
+   "FILT.C"   ==> disp_text
+   "FILT.C"   ==> disp_num
+   "FILT.C"   ==> num2string
+   "FILT.C"   ==> write_lcd_inst
+   "FILT.C"   ==> write_lcd_data
+   "FILT.C"   ==> write_lcd_nibble
+   "FILT.C"   ==> delta_t
+   "FILT.C"   ==> wait
+   "FILT.C"   ==> wait_n_samples
+   "FILT.C"   ==> prog_flash
+   "FILT.C"   ==> read_flash
+   "FILT.C"   ==> valid_serial
+   "FILT.C"   ==> update_disp_left
+   "FILT.C"   ==> update_disp_right
+   "FILT.C"   ==> beep
+TMS320C2x/C2xx/C5x ANSI C Codegen           Version 7.00
+Copyright (c) 1987-1999  Texas Instruments Incorporated 
+   "FILT.C"   ==> main
+   "FILT.C"   ==> initialize
+   "FILT.C"   ==> init_params
+   "FILT.C"   ==> init_freq_params
+   "FILT.C"   ==> set_fsample
+   "FILT.C"   ==> reset_port
+   "FILT.C"   ==> sign_on
+   "FILT.C"   ==> parse_command
+   "FILT.C"   ==> txrxint_c
+   "FILT.C"   ==> reset_lcd
+   "FILT.C"   ==> disp_text
+   "FILT.C"   ==> disp_num
+   "FILT.C"   ==> num2string
+   "FILT.C"   ==> write_lcd_inst
+   "FILT.C"   ==> write_lcd_data
+   "FILT.C"   ==> write_lcd_nibble
+   "FILT.C"   ==> delta_t
+   "FILT.C"   ==> wait
+   "FILT.C"   ==> wait_n_samples
+   "FILT.C"   ==> prog_flash
+   "FILT.C"   ==> read_flash
+   "FILT.C"   ==> valid_serial
+   "FILT.C"   ==> update_disp_left
+   "FILT.C"   ==> update_disp_right
+   "FILT.C"   ==> beep
+TMS320C1x/C2x/C2xx/C5x COFF Assembler       Version 7.00
+Copyright (c) 1987-1999  Texas Instruments Incorporated 
+
+ PASS 1
+ PASS 2
+
+ No Errors,  No Warnings
+
+dspa -s -v2xx FILTASM.ASM FILTASM.obj
+TMS320C1x/C2x/C2xx/C5x COFF Assembler       Version 7.00
+Copyright (c) 1987-1999  Texas Instruments Incorporated 
+
+ PASS 1
+ PASS 2
+
+ No Errors,  No Warnings
+
+dsplnk  RECOVER.MAK
+TMS320C1x/C2x/C2xx/C5x COFF Linker      Version 7.00
+Copyright (c) 1987-1999  Texas Instruments Incorporated 
+
+Build Complete,
+  0 Errors, 0 Warnings.

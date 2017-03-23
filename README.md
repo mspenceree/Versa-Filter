@@ -18,10 +18,9 @@ I developed this as a commercial product and sold it from 1997 through 2007.
 ![img](images/VUMovie.gif)
 
 ## Schematics
-[Filter Module Schematic](hardware/filter_module.pdf)
+![Filter Module Schematic](hardware/filter_module.pdf)
 
-[Filter System Schematic](hardware/filter_system.pdf)
-
+![Filter System Schematic](hardware/filter_system.pdf)
 
 ## What You'll Find
 - **/doc src** - Source files for the PDF documentation.

@@ -30,7 +30,7 @@ This is a legacy design that uses the TMS320C203 TI DSP processor, which is no l
 - **.pdf** - PDF product documentation
 
 ## Development Tools
-Used TI’s code composer studio but I have not done a build in some time.
+I used TI’s Code Composer Studio v1.x and I have not done a build since 2001.
 
 ## License Note
 The hardware directory has a different (non-MIT) license.

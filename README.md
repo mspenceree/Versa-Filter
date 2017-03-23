@@ -6,10 +6,10 @@ The Versa-Filter is a versatile signal conditioning and digital filter system wi
 I developed this as a commercial product and sold it from 1997 through 2007.
 
 ### 2 channel Versa-Filter system: 
-![img](images/2ch%20System.jpg "Title")
+![img](images/2ch%20system.jpg)
 
 ### Versa-Filter modules and 32 channel system:
-![img](images/32ch%20System%20%26%20Modules.jpg)
+![img](images/32ch%20system%20and%20modules.jpg)
 
 ### Rotary-encoder with push-button used to set filter functions, frequencies and gains:
 ![img](images/VFMovie.gif)
@@ -18,12 +18,10 @@ I developed this as a commercial product and sold it from 1997 through 2007.
 ![img](images/VUMovie.gif)
 
 ## Schematics
-[Filter Module PDF Schematic](hardware/filter_module.pdf)
+[Filter Module Schematic](hardware/filter_module.pdf)
 
-[Filter System PDF Schematic](hardware/filter_system.pdf)
+[Filter System Schematic](hardware/filter_system.pdf)
 
-## Important Note
-This is a legacy design that uses the TMS320C203 TI DSP processor, which is no longer recommended for new designs. However, the processor and other parts are still available.
 
 ## What You'll Find
 - **/doc src** - Source files for the PDF documentation.
@@ -32,6 +30,9 @@ This is a legacy design that uses the TMS320C203 TI DSP processor, which is no l
 - **/images** - images used in this document.
 - **/matlab** - MATLAB support files.
 - **.pdf** - PDF product documentation
+
+## Important Note
+This is a legacy design that uses the TMS320C203 TI DSP processor, which is no longer recommended for new designs. However, the processor and other parts are still available.
 
 ## Development Tools
 I used TI’s Code Composer Studio v1.x and I have not done a build since 2001.

@@ -6,17 +6,21 @@ The Versa-Filter is a versatile signal conditioning and digital filter system wi
 I developed this as a commercial product and sold it from 1997 through 2007.
 
 ### 2 channel Versa-Filter system: 
-![img](https://github.com/mspenceree/Versa-Filter/blob/master/images/2ch%20System.jpg)
+![img](images/2ch%20System.jpg "Title")
 
 ### Versa-Filter modules and 32 channel system:
-![img](https://github.com/mspenceree/Versa-Filter/blob/master/images/32ch%20System%20%26%20Modules.jpg)
+![img](images/32ch%20System%20%26%20Modules.jpg)
 
 ### Rotary-encoder with push-button used to set filter functions, frequencies and gains:
-![img](https://github.com/mspenceree/Versa-Filter/blob/master/images/VFMovie.gif)
+![img](images/VFMovie.gif)
 
 ### VU-Level meter for inputs and outputs:
-![img](https://github.com/mspenceree/Versa-Filter/blob/master/images/VUMovie.gif)
+![img](images/VUMovie.gif)
 
+## Schematics
+[Filter Module PDF Schematic](hardware/filter_module.pdf)
+
+[Filter System PDF Schematic](hardware/filter_system.pdf)
 
 ## Important Note
 This is a legacy design that uses the TMS320C203 TI DSP processor, which is no longer recommended for new designs. However, the processor and other parts are still available.
@@ -34,3 +38,4 @@ I used TI’s Code Composer Studio v1.x and I have not done a build since 2001.
 
 ## License Note
 The hardware directory has a different (non-MIT) license.
+

@@ -6,16 +6,16 @@ The Versa-Filter is a versatile signal conditioning and digital filter system wi
 I developed this as a commercial product and sold it from 1997 through 2007.
 
 ### 2 channel Versa-Filter system: 
-![img](images/2ch%20system.jpg)
+![img](images/2ch%20system.jpg "images/2ch system.jpg")
 
 ### Versa-Filter modules and 32 channel system:
-![img](images/32ch%20system%20and%20modules.jpg)
+![img](images/32ch%20system%20and%20modules.jpg "images/32ch system and modules.jpg")
 
 ### Rotary-encoder with push-button used to set filter functions, frequencies and gains:
-![img](images/VFMovie.gif)
+![img](images/VFMovie.gif "images/VFMovie.gif")
 
 ### VU-Level meter for inputs and outputs:
-![img](images/VUMovie.gif)
+![img](images/VUMovie.gif "images/VUMovie.gif")
 
 ## Schematics
 [Filter Module Schematic](hardware/filter_module.pdf "hardware/filter_module.pdf")

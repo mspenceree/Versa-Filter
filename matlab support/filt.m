@@ -1,7 +1,6 @@
 % This program designs a FIR filter window 
 % and writes the filt.h header file for the Versa-Filter.
 
-flops(0);
 
 Nfir = 127;     % 3 to 256 Filter length (odd for no zero at fs/2)
 fs = 48;        % Sampling rate (in KHz)
